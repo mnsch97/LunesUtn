@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: aqua;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color:red;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
