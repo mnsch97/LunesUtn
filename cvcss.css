@@ -4,6 +4,7 @@ body {
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
+   
 }
 
 h1{
@@ -11,7 +12,6 @@ h1{
     text-align: center;
     color:red;
     font-size: x-large;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
-    
+    font-family: 'Oleo Script Swash Caps', cursive;
+    background:linear-gradient(to right, red, white)
 }
